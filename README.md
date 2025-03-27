@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Siraset Thong-in 
+=================================================================================================================================
 
-<!--
-**mrheise1995/mrheise1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 About Me
+--------
 
-Here are some ideas to get you started:
+I am currently pursuing a degree in Computer Science at Rajamangala University of Technology Thanyaburi and am seeking an internship opportunity to gain experience in various areas while applying my skills in problem-solving and coding. I am eager to learn about backend technologies and database management to develop scalable and efficient systems. I enjoy tackling real-world challenges with creative and practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📫 Based in Pathum Thani, Thailand
+* 🌱 I am interested in backend and full stack development.
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,angular,next,py,html,css,php,postman,flutter,js,lua,go,ts,git)](https://skillicons.dev)
+
